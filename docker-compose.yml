@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  health-dashboard:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./app:/app/app
+    environment:
+      - REFRESH_INTERVAL_SECONDS=5
