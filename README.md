@@ -62,7 +62,7 @@ This project demonstrates full-stack development, DevOps skills, and system-leve
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/<your-username>/health-dashboard.git
+git clone https://github.com/yaseen002/health-dashboard.git
 cd health-dashboard
 ```
 
